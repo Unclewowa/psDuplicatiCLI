@@ -23,3 +23,5 @@ Example: how to update backup : DuplicatiUpdateBackups.ps1
 
 Show backup vesions and content ^ DuplicatiFindAll.ps1
  
+ 
+ To use scripts, run Duplicati as a service
