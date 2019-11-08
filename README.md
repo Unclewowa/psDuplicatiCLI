@@ -2,8 +2,11 @@
 Powershell scripts for  Duplicati
 
 Main tools: DuplicatiFunc.ps1, DuplicatiTools.ps1
+
 Login procedure (setup required): DuplicatiLogin.ps1
+
 Simple mail sender (setup required): sendMSG.ps1
+
 Show backups/tasks state & info : DuplicatiGetBackups.ps1, DuplicatiGetBackupsInfo.ps1, DuplicatiTasks.ps1
 
 Show Duplicati Settings : DuplicatiGetSettings.ps1
